@@ -1,0 +1,1 @@
+estudante jovem == "eduardo"
