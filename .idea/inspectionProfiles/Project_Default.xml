@@ -24,6 +24,11 @@
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 93522691fb56006f9aa4e42bbb620a444dd57e60
           <option value="W29" />
           <option value="E501" />
           <option value="W29" />
@@ -32,15 +37,22 @@
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+<<<<<<< HEAD
+=======
           <option value="W29" />
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+<<<<<<< HEAD
+          <option value="W29" />
+          <option value="E501" />
+=======
           <option value="E731" />
           <option value="W605" />
           <option value="W29" />
           <option value="E501" />
           <option value="E402" />
+>>>>>>> 93522691fb56006f9aa4e42bbb620a444dd57e60
           <option value="W29" />
           <option value="E501" />
           <option value="W29" />
@@ -49,6 +61,132 @@
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+<<<<<<< HEAD
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+=======
         </list>
       </option>
     </inspection_tool>
@@ -75,6 +213,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="pardir" />
+>>>>>>> 8c76df848bd48d563f8f6333c8ba3345432448c7
+>>>>>>> 93522691fb56006f9aa4e42bbb620a444dd57e60
         </list>
       </option>
     </inspection_tool>
