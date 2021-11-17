@@ -5,3 +5,5 @@ virus
 
 ban
 coisa linda do demonio
+
+spam teste de filtro
